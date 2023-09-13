@@ -3,4 +3,4 @@
 
  Repositório criado assistindo à gravações do Curso em Vídeo
 
-Digitei esta linha diretamente no site
+ Digitei esta linha diretamente no site
